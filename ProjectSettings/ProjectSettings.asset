@@ -812,11 +812,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 5a9b5c56-2ec7-4fc5-8f4f-97ec351f8732
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: Cube-Runner
+  organizationId: parbatkhanal73
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
